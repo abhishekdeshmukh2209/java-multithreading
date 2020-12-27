@@ -3,5 +3,5 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Spring boot application having simply multithreaded code for server using server socket</display-name>
+  <display-name>Spring boot application having simply multithreaded code for server using server socket and starts with command line argument</display-name>
 </web-app>
